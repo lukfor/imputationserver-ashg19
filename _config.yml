@@ -1,5 +1,5 @@
-title: Imputationserver ASHG19
-description: Website for ASHG19 Workshop
+title: The Michigan Imputation Server
+description: Data Preparation, Genotype Imputation, and Data Analysis
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
