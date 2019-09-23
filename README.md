@@ -4,13 +4,10 @@
 Thursday, October 17, 7:15-8:45 am
 
 ### Workshop facilitator(s)
-Christian Fuchsberger, [christian.fuchsberger@eurac.edu](mailto:christian.fuchsberger@eurac.edu)
-
-Lukas Forer, [lukas.forer@i-med.ac.at](mailto:lukas.forer@i-med.ac.at)
-
-Sebastian Schoenherr, [sebastian.schoenherr@i-med.ac.at](mailto:sebastian.schoenherr@i-med.ac.at)
-
-Cassie Spracklen, [cspracklen@umass.edu](mailto:cspracklen@umass.edu)
+- Christian Fuchsberger, [christian.fuchsberger@eurac.edu](mailto:christian.fuchsberger@eurac.edu)
+- Lukas Forer, [lukas.forer@i-med.ac.at](mailto:lukas.forer@i-med.ac.at)
+- Sebastian Schoenherr, [sebastian.schoenherr@i-med.ac.at](mailto:sebastian.schoenherr@i-med.ac.at)
+- Cassie Spracklen, [cspracklen@umass.edu](mailto:cspracklen@umass.edu)
 
  
 ### Workshop description (from the program)
