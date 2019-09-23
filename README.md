@@ -1,4 +1,4 @@
-## Workshop ASHG 2019, Huston, Texas
+## Workshop ASHG 2019, Houston, Texas
  
 ### Date/time of workshop
 Thursday, October 17, 7:15-8:45 am
