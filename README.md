@@ -5,8 +5,11 @@ Thursday, October 17, 7:15-8:45 am
 
 ### Workshop facilitator(s)
 Christian Fuchsberger, [christian.fuchsberger@eurac.edu](mailto:christian.fuchsberger@eurac.edu)
+
 Lukas Forer, [lukas.forer@i-med.ac.at](mailto:lukas.forer@i-med.ac.at)
+
 Sebastian Schoenherr, [sebastian.schoenherr@i-med.ac.at](mailto:sebastian.schoenherr@i-med.ac.at)
+
 Cassie Spracklen, [cspracklen@umass.edu](mailto:cspracklen@umass.edu)
 
  
@@ -26,10 +29,10 @@ App(s) that should be downloaded before the workshop: SSH and sftp client to acc
 - SFTP client: e.g. FileZilla - https://filezilla-project.org
 
 #### Linux / Mac:
-- already provided by the operating system. 
+- Already provided by the operating system. 
  
 ### Recommended background reading
-will be listed on the workshop dedicated website (imputationserver.sph.umich.edu/ashg19)
+Will be listed on this website (imputationserver.sph.umich.edu/ashg19)
 
 ### Other information:
-Recommended to check the workshop website (imputationserver.sph.umich.edu/ashg19) one week before the workshop for updates.
+Recommended to check this website (imputationserver.sph.umich.edu/ashg19) one week before the workshop for updates.
