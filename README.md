@@ -4,7 +4,7 @@
 Thursday, October 17, 7:15-8:45 am
 
 ### Workshop facilitator(s)
-Christian Fuchsberger, christian.fuchsberger@eurac.edu
+Christian Fuchsberger, [christian.fuchsberger@eurac.edu](mailto:christian.fuchsberger@eurac.edu)
  
 ### Workshop description (from the program)
 Genotype imputation is a key component of modern genetic studies. This interactive workshop is intended for anyone interested in learning how to use the Michigan Imputation Server (MIS; https://imputationserver.sph.umich.edu) to impute genotypes and how to use the imputed genotypes, with a special focus on up-coming reference panels, including the multi-ancestry panel from the TOPMed program. A brief overview of imputation and the server will be followed by demonstrations and exercises, including: 1) quality control and preparation of genetic data for use on the MIS with a special focus on diverse ancestries and chromosome X; 2) tracking runs and use of the application program interface for larger jobs; 3) downloading data from the MIS and preparing data for genetic analysis; 4) performing a GWAS using imputed data and interpreting results, taking into account imputation quality. We encourage participants to ask specific questions about their own projects. Workshop materials, including slides and example data sets, will be made available before the workshop and will remain online at the MIS website. We expect that this workshop will enable participants to generate high-quality imputed data sets and to properly analyze them. Attendees are expected to follow materials on their personal laptops. 
