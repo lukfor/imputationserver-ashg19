@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: Imputationserver ASHG19
+description: Website for ASHG19 Workshop
+github:
+  is_project_page: false
+plugins:
+  - jemoji
