@@ -36,7 +36,7 @@ William Rayner (University of Oxford) provides a tool to validate PLINK binary d
 Initially, please copy the PLINK data files to your local directory:
 
 ````sh
-cp /data/plink-data/raw-22-filtered/* .
+cp /data/plink-data/raw-22-filtered/* ~/.
 ````
 
 #### Create Frequency File
@@ -59,25 +59,27 @@ A set of plink commands to update or remove SNPs has now been created. We can no
 sh Run-plink.sh
 ````
 
-### Step 1d - Convert to VCF
+### Step 1c - Compress VCF File
 To use with Michigan Imputation Server, the cleaned PLINK file needs converted to VCF:
 
 ````
-plink --bfile ~/raw-22-filtered-updated-chr22 --recode vcf bgz --out chr22-final
+bgzip raw-22-filtered-updated-chr22.vcf
 ````
 
-### Step 1c - Download VCF
-Open FileZilla/WinSCP and download the `chr22-final.vcf.gz` file to your local file system. Now we are ready to submit out first job!
+### Step 1d - Download VCF
+Open FileZilla/WinSCP and download the `raw-22-filtered-updated-chr22.vcf.gz` file to your local file system. Now we are ready to submit out first job!
 
 
 ## Step 2 - Submit Job
-Please connect to our [demo instance](http://imputation-demo-2058360856.us-east-2.elb.amazonaws.com/index.html#!) available for this workshop.
+Please connect to our [Michigan Imputation Server Ddemo instance](http://imputation-demo-2058360856.us-east-2.elb.amazonaws.com/index.html#!) available for this workshop.
 
 ### Register a new account
 Since this is a demo instance, please register a new account. *Note:* There is no email validation required, you can simply login by using your selected username and password. 
 
 ### Submit Job!
-You can now select the local file and upload it to our demo instance of Michigan Imputation Server. Please select the **1000 Genomes Phase 3** reference panel and select **EUR** as the Quality Control population. After several minutes, the imputed data can be downloaded and extracted. Congratulations! if you need help submitting a job or download results or the QC report, please have a look at our [Getting Started Guide](https://imputationserver.readthedocs.io/en/latest/getting-started/).
+You can now select the local file and upload it to our demo instance of Michigan Imputation Server. Please select the **1000 Genomes Phase 3** reference panel and select **EUR** as the Quality Control population. After several minutes, the imputed data can be downloaded and extracted. Congratulations! 
+
+if you need help submitting a job or download results or the QC report, please have a look at our [Getting Started Guide](https://imputationserver.readthedocs.io/en/latest/getting-started/).
 
 ## What's next?
 Preparing data for Michigan Imputation Server is quite easy. In the next part you will learn how to make everything reproducibile by using  the new Michigan Imputation Server API!
