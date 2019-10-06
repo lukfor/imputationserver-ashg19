@@ -1,5 +1,7 @@
 ## Workshop ASHG 2019, Houston, Texas
  
+[Preimputation](preparation) 
+ 
 ### Date/time of workshop
 Thursday, October 17, 7:15-8:45 am
 
@@ -9,7 +11,6 @@ Thursday, October 17, 7:15-8:45 am
 - Sebastian Schoenherr, [sebastian.schoenherr@i-med.ac.at](mailto:sebastian.schoenherr@i-med.ac.at)
 - Cassie Spracklen, [cspracklen@umass.edu](mailto:cspracklen@umass.edu)
 
- 
 ### Workshop description (from the program)
 Genotype imputation is a key component of modern genetic studies. This interactive workshop is intended for anyone interested in learning how to use the Michigan Imputation Server (MIS; [https://imputationserver.sph.umich.edu](https://imputationserver.sph.umich.edu)) to impute genotypes and how to use the imputed genotypes, with a special focus on up-coming reference panels, including the multi-ancestry panel from the TOPMed program. A brief overview of imputation and the server will be followed by demonstrations and exercises, including:
 
