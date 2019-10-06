@@ -33,18 +33,24 @@ Our initial files are located under `/data/plink-data`. You will find three diff
 
 William Rayner (University of Oxford) provides a tool to validate PLINK binary data: [Pre-imputation Checks](http://www.well.ox.ac.uk/~wrayner/tools/). The script checks the strand information, alleles, positions, Ref/Alt assignments and frequency differences.
 
+Initially, please copy the PLINK data files to your local directory:
+
+````sh
+cp /data/plink-data/raw-22-filtered/* .
+````
+
 #### Create Frequency File
  The script requires a frequency file, which can be simply created with plink:
  
 ````sh
-plink --freq --bfile /data/plink-data/raw-22-filtered --out ~/raw-22-filtered
+plink --freq --bfile ~/raw-22-filtered --out ~/raw-22-filtered
 ````
 
 #### Run Pre-Imputation Step
 To run the script (a) a frequency file (see above) and (b) a 1000 Genomes Phase3 site list must be available. We already prepared the site list and the following command can be executed:
 
 ````sh
-perl /opt/tools/imputation-preparation/HRC-1000G-check-bim.pl -b ~/raw-22-filtered -f ~/raw-22-filtered.freq -r /opt/tools/imputation-preparation/1000GP_Phase3_combined.legend.gz -g -p EUR
+perl /opt/tools/imputation-preparation/HRC-1000G-check-bim.pl -b ~/raw-22-filtered.bim -f ~/raw-22-filtered.frq -r /opt/tools/imputation-preparation/1000GP_Phase3_combined.legend.gz -g -p EUR
 ````
 #### Run Script
 A set of plink commands to update or remove SNPs has now been created. We can now produce a cleaned file by entering the following command:
