@@ -1,7 +1,13 @@
 ## Workshop ASHG 2019, Houston, Texas
  
-[Preimputation](preparation) 
- 
+Update: Oct 10, 2019
+
+- For the interactive polls, we recommend to install the mobile Poll Everywhere app [https://www.polleverywhere.com/mobile]
+- No additional software is needed
+- For the question/answer session, we invite participants to send questions to (mailto:christian.fuchsberger@eurac.edu)
+
+## Factsheet
+
 ### Date/time of workshop
 Thursday, October 17, 7:15-8:45 am
 
@@ -26,15 +32,6 @@ Attendees interested in learning how to perform genotype imputation and use impu
  
 ### Requirements
 Device(s) that attendees should bring to the workshop (e.g., laptop, smartphone, etc.): Laptop
-
-App(s) that should be downloaded before the workshop: SSH and sftp client to access provided remote compute during the workshop. 
-
-#### Windows: 
-- SSH client: e.g. PuTTY - [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-- SFTP client: e.g. FileZilla - [https://filezilla-project.org](https://filezilla-project.org)
-
-#### Linux / Mac:
-- Already provided by the operating system. 
  
 ### Recommended background reading
 Will be listed on this website ([https://imputationserver.sph.umich.edu/ashg19](https://imputationserver.sph.umich.edu/ashg19))
