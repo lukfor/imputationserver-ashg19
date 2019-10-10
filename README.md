@@ -5,6 +5,7 @@ Update: Oct 10, 2019
 - For the interactive polls, we recommend to install the mobile Poll Everywhere app [https://www.polleverywhere.com/mobile]
 - No other additional software is needed
 - For the question/answer session, we invite participants to send questions to (mailto:christian.fuchsberger@eurac.edu)
+- Recommend to check the website the day before the workshop for last minute updates
 
 ## Factsheet
 
