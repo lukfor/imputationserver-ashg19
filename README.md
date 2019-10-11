@@ -7,10 +7,10 @@
 - For the question/answer session, we invite participants to send questions to  [christian.fuchsberger@eurac.edu](mailto:christian.fuchsberger@eurac.edu)
 - Recommend to check the website the day before the workshop for last minute updates
 
-## Factsheet
-
-### Date/time of workshop
+## Date/time of workshop
 Thursday, October 17, 7:15-8:45 am
+
+## Factsheet
 
 ### Workshop facilitator(s)
 - Christian Fuchsberger, [christian.fuchsberger@eurac.edu](mailto:christian.fuchsberger@eurac.edu)
