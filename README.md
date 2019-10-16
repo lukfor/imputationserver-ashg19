@@ -1,5 +1,11 @@
 # Workshop ASHG 2019, Houston, Texas
- 
+
+## ASHG Testserver
+1) Conect to the [ASHG Testcluster](https://imputationserver.sph.umich.edu/aws)
+Note: Your username is active right after registration!
+2) Download test data: [Chr20 Phased](https://github.com/lukfor/imputationserver-ashg19/raw/master/files/chr20.R50.merged.1.330k.recode.small.vcf.gz) or [Chr20 Unphased](https://github.com/lukfor/imputationserver-ashg19/raw/master/files/chr20.R50.merged.1.330k.recode.unphased.small.vcf.gz)
+3) Run a job
+
 ## Update: Oct 10, 2019
 
 - For the interactive polls, we recommend to install the mobile [Poll Everywhere app](https://www.polleverywhere.com/mobile)
