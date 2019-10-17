@@ -10,7 +10,8 @@
 1) Connect to our [ASHG Testcluster](https://imputationserver.sph.umich.edu/aws) on Amazon AWS
 
 2) Register a new username
-**Note:** Your username will be active right after registration!
+
+**Note:** Your username will be active right after registration (no verification link will be sent). 
 
 3) Download test data: [Chr20 Phased](https://github.com/genepi/imputationserver/raw/master/test-data/data/chr20-phased/chr20.R50.merged.1.330k.recode.small.vcf.gz) or [Chr20 Unphased](https://github.com/genepi/imputationserver/raw/master/test-data/data/chr20-unphased/chr20.R50.merged.1.330k.recode.unphased.small.vcf.gz)
 
