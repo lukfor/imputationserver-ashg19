@@ -6,7 +6,7 @@
 2) Register a new username
 **Note:** Your username will be active right after registration!
 
-3) Download test data: [Chr20 Phased](https://github.com/lukfor/imputationserver-ashg19/raw/master/files/chr20.R50.merged.1.330k.recode.small.vcf.gz) or [Chr20 Unphased](https://github.com/lukfor/imputationserver-ashg19/raw/master/files/chr20.R50.merged.1.330k.recode.unphased.small.vcf.gz)
+3) Download test data: [Chr20 Phased](https://github.com/genepi/imputationserver/raw/master/test-data/data/chr20-phased/chr20.R50.merged.1.330k.recode.small.vcf.gz) or [Chr20 Unphased](https://github.com/genepi/imputationserver/raw/master/test-data/data/chr20-unphased/chr20.R50.merged.1.330k.recode.unphased.small.vcf.gz)
 
 4) Run a job using HapMap2
 
