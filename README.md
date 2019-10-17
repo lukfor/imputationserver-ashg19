@@ -4,7 +4,7 @@
 
 
 ## Slides version 1 
-[MIS_workshop_v1.pdf](https://github.com/genepi/imputationserver/MIS_workshop_v1.pdf)
+[MIS_workshop_v1.pdf](https://github.com/lukfor/imputationserver-ashg19/files/MIS_workshop_v1.pdf)
 
 ## ASHG Testserver
 1) Connect to our [ASHG Testcluster](https://imputationserver.sph.umich.edu/aws) on Amazon AWS
