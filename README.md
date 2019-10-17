@@ -1,5 +1,8 @@
 # Workshop ASHG 2019, Houston, Texas
 
+
+## Slides version 1 (https://github.com/genepi/imputationserver/MIS_workshop_v1.pdf)
+
 ## ASHG Testserver
 1) Connect to our [ASHG Testcluster](https://imputationserver.sph.umich.edu/aws) on Amazon AWS
 
