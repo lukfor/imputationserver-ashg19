@@ -3,7 +3,7 @@
 
 
 ## Google Slides
-[Slides](https://docs.google.com/presentation/d/1vOeT1t0_INSj9NN0RJ2EIEZbfmjLFTfXQLydDR-BTmU/edit?usp=sharing)
+[MIS_workshop](https://docs.google.com/presentation/d/1vOeT1t0_INSj9NN0RJ2EIEZbfmjLFTfXQLydDR-BTmU/edit?usp=sharing)
 
 ## Slides version 1 
 [MIS_workshop_v1.pdf](https://github.com/lukfor/imputationserver-ashg19/raw/master/files/MIS_workshop_v1.pdf)
